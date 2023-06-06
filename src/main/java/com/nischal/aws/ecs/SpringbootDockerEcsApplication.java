@@ -22,6 +22,11 @@ public class SpringbootDockerEcsApplication {
 		return "Hi " + name + " Welcome to Nischal AWS CI/CD Example";
 	}
 
+	@GetMapping("/check")
+	public String checkPipeline(){
+		return "Hi PipeLine is working fine";
+	}
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootDockerEcsApplication.class, args);
 	}
