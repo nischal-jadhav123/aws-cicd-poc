@@ -1,13 +1,20 @@
 package com.nischal.aws.ecs.dtos.request;
 
+import io.swagger.v3.oas.annotations.media.Schema;
+
 public class GetNewsRequest {
+    @Schema(defaultValue = "days")
     private String filterType;
+
+    @Schema(defaultValue = "2")
     private Integer filterValue;
+    @Schema(defaultValue = "5")
     private Integer pageSize;
+    @Schema(defaultValue = "1")
     private Integer pageNumber;
-
+    @Schema(defaultValue = "popularity")
     private String sortBy;
-
+    @Schema(defaultValue = "cricket")
     private String searchKey;
 
     public GetNewsRequest() {
