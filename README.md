@@ -28,7 +28,7 @@ The backend architecture of the News App is designed to leverage the scalability
 
 ## Architecture Diagram
     
-![App Screenshot]()
+![App Screenshot](https://github.com/nischal-jadhav123/readme_screenshots_global/blob/main/news-api-app-architecture.jpg?raw=true)
     
 The above image illustrates the architecture of the News App Backend, showcasing the flow of code from the repository to deployment on AWS.
 
