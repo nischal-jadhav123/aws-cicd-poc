@@ -14,11 +14,6 @@ The following technologies were used in the development of this project:
 - AWS(Code Pipeline, Code Build, Elastic Container Registory(ECR), Elastic Container Service(ECS), Fargate)
 - Github
 
-## Screenshots
-
-![App Screenshot](https://github.com/nischal-jadhav123/readme_screenshots_global/blob/main/news-api-app-architecture.drawio.png?raw=true)
-
-
 ## Backend Architecture Explination
 
 The backend architecture of the News App is designed to leverage the scalability and flexibility provided by AWS services. The architecture is built on the AWS cloud region AP-South-1 (Mumbai). Let's take a closer look at the components and their interactions:
@@ -33,7 +28,7 @@ The backend architecture of the News App is designed to leverage the scalability
 
 ## Architecture Diagram
     
-![App Screenshot](https://github.com/nischal-jadhav123/readme_screenshots_global/blob/main/news-api-app-architecture.drawio.png?raw=true)
+![App Screenshot]()
     
 The above image illustrates the architecture of the News App Backend, showcasing the flow of code from the repository to deployment on AWS.
 
