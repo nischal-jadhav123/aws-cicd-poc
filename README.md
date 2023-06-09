@@ -4,7 +4,7 @@
 Welcome to the News App Backend repository! This repository contains the backend implementation of a News fetching application, developed using Java 17 and Spring Boot. The application is deployed on AWS, leveraging various AWS services for efficient autoscaling and traffic handling..
 
 
-
+Note : This application service is stopped due to aws service are not free. Please contact me for the demo or swagger document.
 
 ## Technology Used
 The following technologies were used in the development of this project:
@@ -35,13 +35,3 @@ The above image illustrates the architecture of the News App Backend, showcasing
 Thank you for your interest in the News App Backend! If you have any further questions, please feel free to reach out.
 
     
-
-
-    
-
-
-
-
-
-
-## Feature
