@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
                 version = "1.0.0",
                 description = "This is a News Application which uses News API internally to get the news",
                 contact = @Contact(
-                        name = "Nischal Jadhav H",
+                        name = "Nischal Jadhav H ",
                         email = "nischal.jadhav@gmail.com"
                 )
         )
